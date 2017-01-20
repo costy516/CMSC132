@@ -1,0 +1,9 @@
+Vertices: [A, B, C, D, M, ST]
+Edges:
+Vertex(A)--->{C=2}
+Vertex(B)--->{A=4, D=3}
+Vertex(C)--->{D=5}
+Vertex(D)--->{C=7}
+Vertex(M)--->{}
+Vertex(ST)--->{A=11, B=6}
+TERPSPUBLICTESTS

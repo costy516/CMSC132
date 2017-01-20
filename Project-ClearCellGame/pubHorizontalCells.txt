@@ -1,0 +1,24 @@
+Before processCell
+
+Board(Rows: 8, Columns: 8)
+BBBBBBBB
+YYYYYYYR
+BBBBBBBB
+BBBBBBBB
+BBBBBBBB
+BBBBBBBB
+BBBBBBBB
+........
+
+After processCell
+Board(Rows: 8, Columns: 8)
+BBBBBBBB
+.......R
+BBBBBBBB
+BBBBBBBB
+BBBBBBBB
+BBBBBBBB
+BBBBBBBB
+........
+
+ClearCellGameTest

@@ -1,0 +1,6 @@
+Vertex: ST, Vertex Data: 1000.5
+Vertex: A, Vertex Data: 1001.5
+Vertex: B, Vertex Data: 1002.5
+Vertex: C, Vertex Data: 1003.5
+Vertex: D, Vertex Data: 1004.5
+TERPSPUBLICTESTS

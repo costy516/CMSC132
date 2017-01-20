@@ -1,0 +1,7 @@
+Board(Rows: 4, Columns: 5)
+RRGYY
+RYBYR
+.....
+.....
+
+ClearCellGameTest

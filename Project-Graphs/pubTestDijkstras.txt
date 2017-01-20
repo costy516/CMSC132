@@ -1,0 +1,7 @@
+Shortest path cost between ST A: 10, Path: [ST, B, A]
+Shortest path cost between ST B: 6, Path: [ST, B]
+Shortest path cost between ST C: 12, Path: [ST, B, A, C]
+Shortest path cost between ST D: 9, Path: [ST, B, D]
+Shortest path cost between ST M: -1, Path: [None]
+Shortest path cost between ST ST: 0, Path: [ST]
+TERPSPUBLICTESTS
